@@ -5,7 +5,7 @@
 ## The second function does the cache.
 
 ## The first function, makeCacheMatrix creates "matrix = x" 
-
+## The inverse of this matrix is read by the second function.
 
 makeCacheMatrix <- function(x = matrix()) {
   
